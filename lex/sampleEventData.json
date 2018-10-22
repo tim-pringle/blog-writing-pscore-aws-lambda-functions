@@ -1,0 +1,24 @@
+{
+    "messageVersion": "1.0",
+    "invocationSource": "FulfillmentCodeHook",
+    "userId": "6s2nbbc36j0mu0v56d6xcn3gq1cm0z0m",
+    "sessionAttributes": {},
+    "requestAttributes": null,
+    "bot": {
+        "name": "MyPowerShellHelpBot",
+        "alias": "$LATEST",
+        "version": "$LATEST"
+    },
+    "outputDialogMode": "Text",
+    "currentIntent": {
+        "name": "getAWSPowerShellHelp",
+        "slots": {
+            "command": "get-ec2host"
+        },
+        "slotDetails": {
+            "command": "@{resolutions=System.Object[]; originalValue=get-ec2host}"
+        },
+        "confirmationStatus": "None"
+    },
+    "inputTranscript": "I want help with get-ec2host"
+}

@@ -1,0 +1,11 @@
+{
+	"sessionAttributes": {},
+	"dialogAction": {
+		"type": "Close",
+		"fulfillmentState": "Fulfilled",
+		"message": {
+			"contentType": "PlainText",
+			"content": "$description"
+		}
+	}
+}
